@@ -1,0 +1,6 @@
+
+.terraform.lock.hcl
+.terraform/providers/registry.terraform.io/hashicorp/aws/4.67.0/darwin_amd64/terraform-provider-aws_v4.67.0_x5
+.terraform/providers/registry.terraform.io/hashicorp/tls/4.0.5/darwin_amd64/terraform-provider-tls_v4.0.5_x5
+otree_ec2_key.pem
+terraform.tfstate
